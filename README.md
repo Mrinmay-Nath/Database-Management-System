@@ -1,1 +1,1 @@
-#From Basics to Proficiency: Beginner to Intermediate-Level DBMS Assignments
+From Basics to Proficiency: Beginner to Intermediate-Level DBMS Assignments
